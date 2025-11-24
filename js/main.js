@@ -41,4 +41,4 @@ if (num1 === num2 && num2 === num3) {
     resultado.innerHTML =
         "De mayor a menor: " + mayor + ", " + centro + ", " + menor + ".<br>" +
         "De menor a mayor: " + menor + ", " + centro + ", " + mayor + ".";
-}nod
+}
